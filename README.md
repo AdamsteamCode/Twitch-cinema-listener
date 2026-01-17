@@ -8,3 +8,6 @@ But to Change the Channel Get In the code Change Any anything "AdamSteamguy" To 
 
 Second thing:
 Run INSTALL And then run START
+
+And You done
+
