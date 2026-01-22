@@ -1,0 +1,15 @@
+{
+  "name": "twitch-cinema-listener",
+  "version": "1.0.0",
+  "description": "Listens to Twitch chat for 'Cinema' from Adamsteamguy and plays a sound",
+  "main": "twitch-cinema-listener.js",
+  "scripts": {
+    "start": "node twitch-cinema-listener.js"
+  },
+  "keywords": ["twitch", "chat", "listener"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}

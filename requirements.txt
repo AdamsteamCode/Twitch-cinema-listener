@@ -1,0 +1,4 @@
+twitchio==2.6.0
+python-dotenv==1.0.0
+aiohttp==3.9.1
+# Note: tkinter comes pre-installed with Python, no need to install separately
