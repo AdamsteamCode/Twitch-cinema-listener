@@ -1,6 +1,7 @@
 # Twitch Cinema Listener Bot
 
-A desktop GUI application for managing a Twitch bot that listens to chat and handles cinema/movie-related commands for the johnplayz1900 channel.
+A desktop GUI application for managing a Twitch bot that listens to chat and handles cinema/movie-related commands for Your
+channel.
 
 ## Features
 
@@ -70,4 +71,5 @@ CLIENT_SECRET=your_client_secret_here
 
 - The bot needs to be invited to your channel or run from an account with moderator permissions
 - Keep your `.env` file secure and never commit it to version control
+
 
